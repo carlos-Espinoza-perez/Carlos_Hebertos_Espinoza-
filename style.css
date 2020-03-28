@@ -25,3 +25,9 @@ body {
     margin: auto;
     border: 1px solid greenyellow;
 }
+
+header {
+    height: 50px;
+    width: 1359px;
+    background-color: greenyellow;
+}
