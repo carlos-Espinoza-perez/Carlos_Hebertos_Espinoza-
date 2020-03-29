@@ -9,20 +9,3 @@ body {
     margin: auto;
 }
 
-header {
-    height: 50px;
-    /* width: 1359px; */
-    background-color: greenyellow;
-    box-shadow: 0px 2px 50px 0px goldenrod;
-}
-
-nav {
-    display: flex;
-}
-
-nav li {
-    display: flex;
-    margin-top: 0;
-    width: 35%;
-    margin-top: 16px;
-}
