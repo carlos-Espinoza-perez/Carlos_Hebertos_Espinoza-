@@ -29,7 +29,7 @@ body {
 .container {
     width: 570px;
     margin: auto;
-    border: 1px solid greenyellow;
+    border: 1px solid blue;
 }
 
 header {
