@@ -1,2 +1,4 @@
-Bienvenido visitante este es un codigo de prueba en cual uso git para subir
-este codigo asi q no te preocupes en revisarlos 
+Mediante este codigo te estoy dando la bienbenida al codigo de prueba 
+                    Advertencia
+Este codigo no contiene ningun codigo en inportante este codigo solo 
+fue un codigo de prueba 
