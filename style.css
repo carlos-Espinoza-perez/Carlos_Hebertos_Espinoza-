@@ -1,5 +1,4 @@
 body {
-<<<<<<< HEAD
     padding: 0;
     margin: 0;
     text-align: center;
@@ -31,23 +30,13 @@ body {
     width: 570px;
     margin: auto;
     border: 1px solid blue;
-=======
-    text-align: center;
-    margin: 0;
-    padding: 0;
-}
-
-.container {
-    width: 700px;
-    margin: auto;
->>>>>>> 8e1bcf90a7852e3c75498a50c6b86f5068c40f7a
 }
 
 header {
     height: 50px;
     /* width: 1359px; */
     background-color: greenyellow;
-    box-shadow: 0px 2px 50px 0px goldenrod;
+    /* box-shadow: 0px 2px 50px 0px goldenrod; */
 }
 
 nav {
