@@ -4,4 +4,4 @@
 ***Disponible para todas las edades***
 <h3>Mediante esta linea se esta usando un git stats</h3>
 <h3>con ayuda de fredy vega</h3>
-- Este es un codigo de chiste no te estreses en revisarlo por que lo unico que aras es perder el tiempo
+<p>Este es un codigo de chiste no te estreses en revisarlo por que lo unico que aras es perder el tiempo</p>
